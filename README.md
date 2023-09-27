@@ -29,4 +29,4 @@ Certifique-se de ter as seguintes dependências instaladas em seu ambiente de de
 1. Clone este repositório em sua máquina local:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/Jesusdasilva2001/credit-application-system.git
