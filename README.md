@@ -21,7 +21,6 @@ Este é um sistema de aplicação de crédito desenvolvido para facilitar o proc
 Certifique-se de ter as seguintes dependências instaladas em seu ambiente de desenvolvimento:
 
 - Kotlin
-- Flask (para a interface web)
 - Banco de dados (H2)
 
 ## Configuração
