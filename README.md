@@ -1,5 +1,6 @@
 # credit-application-system
 
+
 Este é um sistema de aplicação de crédito desenvolvido para facilitar o processo de avaliação de solicitações de crédito de clientes. Com este sistema, você pode efetivamente gerenciar e avaliar as solicitações de crédito de seus clientes de forma eficiente.
 
 ## Recursos Principais
@@ -29,3 +30,4 @@ Certifique-se de ter as seguintes dependências instaladas em seu ambiente de de
 
 ```bash
 git clone https://github.com/Jesusdasilva2001/credit-application-system.git
+
