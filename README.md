@@ -1,4 +1,4 @@
-# credit-application-system
+# API para Sistema de Avaliação de Créditos
 
 
 Este é um sistema de aplicação de crédito desenvolvido para facilitar o processo de avaliação de solicitações de crédito de clientes. Com este sistema, você pode efetivamente gerenciar e avaliar as solicitações de crédito de seus clientes de forma eficiente.
